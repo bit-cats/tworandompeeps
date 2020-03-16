@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bit-cats team</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on bit-cats team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 16 Mar 2020 14:37:43 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RGSoCtask</title>
+      <link>http://example.org/posts/rgsoctask/</link>
+      <pubDate>Mon, 16 Mar 2020 14:37:43 +0530</pubDate>
+      
+      <guid>http://example.org/posts/rgsoctask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>understanding Servo</title>
+      <link>http://example.org/posts/understanding-servo/</link>
+      <pubDate>Mon, 16 Mar 2020 14:36:44 +0530</pubDate>
+      
+      <guid>http://example.org/posts/understanding-servo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selectng project from RGSoC projects list</title>
+      <link>http://example.org/posts/our-first-post/</link>
+      <pubDate>Mon, 16 Mar 2020 14:33:48 +0530</pubDate>
+      
+      <guid>http://example.org/posts/our-first-post/</guid>
+      <description>There are many interesting projects accepted by RGSoC team.</description>
+    </item>
+    
+  </channel>
+</rss>
